@@ -587,7 +587,7 @@ main .site-title .cover-photo{
 }
 
 .footer_bg{
-    background-color: var(--first-color);
+    background-color: var(--first-color-lighter);
     padding: 2rem 0 3rem;
 }
 
